@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "******************* binview *******************"
+echo "****************** binviewer ******************"
 echo "***** Copyright (C) 2021 lstn196 (author) *****"
 echo "************** date: 23.07.2021  **************"
 while true
